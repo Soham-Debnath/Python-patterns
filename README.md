@@ -1,1 +1,1 @@
-# These codes showcase pattern printing in Python language.
+# These codes showcase pattern printing in Python.
